@@ -1,0 +1,8 @@
+<#if abc??>
+   存在的时候显示
+<#else>
+  不存在的时候显示
+</#if>
+
+
+<#include "hello.fm">

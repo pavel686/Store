@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="store_manager_web"
+  id="myeclipse.1526399116381"
+  context-root="/store_manager_web"
+  j2ee-spec="1.7"
+  archive="store_manager_web.war">
+  <attributes>
+    <attribute name="webrootdir" value="src/main/webapp" />
+  </attributes>
+</project-module>
+

@@ -1,0 +1,3 @@
+com\cblue\store\sso\service\LoginServiceImpl.class
+com\cblue\store\sso\service\TokenServiceImpl.class
+com\cblue\store\sso\service\RegisterServiceImpl.class

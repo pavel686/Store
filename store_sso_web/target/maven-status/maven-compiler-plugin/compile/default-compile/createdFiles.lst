@@ -1,0 +1,3 @@
+com\cblue\store\sso\controller\TokenController.class
+com\cblue\store\sso\controller\LoginController.class
+com\cblue\store\sso\controller\RegisterController.class

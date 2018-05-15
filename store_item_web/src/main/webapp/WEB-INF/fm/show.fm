@@ -1,0 +1,32 @@
+${stu.id}<br/>
+${stu.name}<br/>
+${stu.age}<br/>
+
+
+<#list list as stu >
+  <#if stu_index%2==0>
+     ${stu_index}
+		${stu.id}
+		${stu.name}
+		${stu.age}<br/>
+		
+	<#else>
+	     奇数不显示	<br/>
+  </#if>
+  
+ <br>
+ ${date?date} 
+ ${date?time} 
+ ${date?datetime} 
+ <br>
+ ${date?string("HH:mm:ss  YYYY/MM/dd")}
+ 
+ 
+ <br>
+ 
+ ${abc!"abc的默认值"}
+
+
+</#list>
+
+

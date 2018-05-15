@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="store_pay_web"
+  id="myeclipse.1526403247110"
+  context-root="/store_pay"
+  j2ee-spec="1.7"
+  archive="store_pay_web.war">
+  <attributes>
+    <attribute name="webrootdir" value="src/main/webapp" />
+  </attributes>
+</project-module>
+
